@@ -1,0 +1,24 @@
+
+.main-heading {
+    text-align: center;
+    color: slateblue;
+    font-size: 60px;
+}
+
+.site-image {
+    height: auto;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.container {
+    text-align: center;
+    font-size: 40px;
+}
+
+ul.receipes {
+    display: inline-block;
+    text-align: left;
+}
